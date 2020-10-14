@@ -1,0 +1,30 @@
+
+
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 15px;
+  align-items: right;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+.btn1 {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 15px;
+  align-items: right;
+}
+
+/* Darker background on mouse-over */
+.btn1:hover {
+  background-color: RoyalBlue;
+}
